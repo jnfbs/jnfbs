@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there! I'm Jon, web dev student. Nice to meet you! 😁
 
-<!--
-**jnfbs/jnfbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnfbs&show_icons=true&theme=dark)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnfbs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 🤔
+* **Name**: Jon Barbosa
+* **Nationality**: 🇧🇷
+* **Pronouns**: He/him/male
+* **Hobbies**: Anime, music, read and tech.
+* **More willing to learn back-end, although I'm glad to learn anything I can using other technologies.**
+## Knowledge 📝
+![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
